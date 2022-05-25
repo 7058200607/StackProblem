@@ -1,0 +1,15 @@
+D:\vrushali\bridgelabz\StackProblem\StackProblem\bin\Debug\net6.0\StackProblem.exe
+D:\vrushali\bridgelabz\StackProblem\StackProblem\bin\Debug\net6.0\StackProblem.deps.json
+D:\vrushali\bridgelabz\StackProblem\StackProblem\bin\Debug\net6.0\StackProblem.runtimeconfig.json
+D:\vrushali\bridgelabz\StackProblem\StackProblem\bin\Debug\net6.0\StackProblem.dll
+D:\vrushali\bridgelabz\StackProblem\StackProblem\bin\Debug\net6.0\StackProblem.pdb
+D:\vrushali\bridgelabz\StackProblem\StackProblem\obj\Debug\net6.0\StackProblem.csproj.AssemblyReference.cache
+D:\vrushali\bridgelabz\StackProblem\StackProblem\obj\Debug\net6.0\StackProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\vrushali\bridgelabz\StackProblem\StackProblem\obj\Debug\net6.0\StackProblem.AssemblyInfoInputs.cache
+D:\vrushali\bridgelabz\StackProblem\StackProblem\obj\Debug\net6.0\StackProblem.AssemblyInfo.cs
+D:\vrushali\bridgelabz\StackProblem\StackProblem\obj\Debug\net6.0\StackProblem.csproj.CoreCompileInputs.cache
+D:\vrushali\bridgelabz\StackProblem\StackProblem\obj\Debug\net6.0\StackProblem.dll
+D:\vrushali\bridgelabz\StackProblem\StackProblem\obj\Debug\net6.0\refint\StackProblem.dll
+D:\vrushali\bridgelabz\StackProblem\StackProblem\obj\Debug\net6.0\StackProblem.pdb
+D:\vrushali\bridgelabz\StackProblem\StackProblem\obj\Debug\net6.0\StackProblem.genruntimeconfig.cache
+D:\vrushali\bridgelabz\StackProblem\StackProblem\obj\Debug\net6.0\ref\StackProblem.dll
